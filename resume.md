@@ -21,8 +21,8 @@ ________________________________________
 
 **UNIVERSITY OF MASSACHUSETTS AMHERST (Expected May 2017):**
 
-<ul>
 Bachelor’s Degree with Individual Concentration in **Informatics (Data Science)**
+<ul>
 <li> Minor in Information Technology and Economics </li>
 <li>	Five College DataFest: Awarded Medal for Best Group (Panel A) </li>
 <li> Applicant in the Certified Associate in Project Management (CAPM) </li>
