@@ -5,7 +5,7 @@ subtitle: Data Scientist, Developer, and Designer
 ---
 
 <center>
-Hello, my name is Vincent and I consider myself to be both a designer and a developer. My work as well as my interest falls into learning about new technology, multimedia, data-science, and programming. While my hobbies include cooking, interacting with data, and creating new works of art. My website http://vincentylee.com is a portfolio that includes all my works and achievements throught out the years. While http://SketchPlatform.com is recently created with the intent for sharing creative and innovative ideas alongside the community.
+Hello, my name is Vincent and I consider myself to be both a designer and a developer. My work as well as my interest falls into learning about new technology, multimedia, data-science, and programming. While my hobbies include cooking, interacting with data, and creating new works of art. My website http://vincentylee.com is a portfolio that includes all my works and achievements throught out the years. While http://sketchplatform.com is recently created with the intent for sharing creative and innovative ideas alongside the community.
 </center>
 
 
