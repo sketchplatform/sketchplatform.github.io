@@ -2,12 +2,16 @@
 **TECHNICAL SKILLS**
 ________________________________________	
 
+
+
 **LANGUAGES & PLATFORMS**
 
 •	Android, CSS, Java, JavaScript, HTML, PHP, and Python
 •	Bootstrap, D3.js, Jekyll, React.js, Node.js, SAS, Tableau, and WordPress
 •	R (and R studio), Hadoop, MongoDB, SQL (and SQLite Databases), and WEKA
 •	Adobe Creative Suite, Github, Google Apps & Analytics, and Microsoft Office
+
+
 
 **EDUCATION**
 ________________________________________	
@@ -19,11 +23,15 @@ Bachelor’s Degree with Individual Concentration in **Informatics (Data Science
 •	Applicant in the Certified Associate in Project Management (CAPM) 
 •	Dean’s List: Spring 2015, Fall 2015
 
+
+
 **COURSES**
 ________________________________________	
 
 **COURSES COVERING (92+ Credits Completed):**
 Biostatistics, Problem Solving with Computers, Calculus, Data Management, Data Science, Economics, Info & Project Management, Internet Business, Programming with Mobile Health Sensing & Monitoring, A Networked World, Programing with Data Structures, Physics, Statistics, Web Programming, and Usability
+
+
 
 **PROJECT PROFILES**
 ________________________________________	
@@ -39,6 +47,8 @@ A simple RPM Detector App for detecting cycling cadence. My role in this project
 
 **WEB APPLICATION – SKETCHPLATFORM**
 Personal website and portfolio created for the purposes of Innovation or Design. It directs you to vincentylee.com where it contains my personal teachings, current projects, and graphical visualizations. The website also has an open social sharing platform, encrypted passwords, and virtual tracking analytics.
+
+
 
 **EXPERIENCES**
 ________________________________________	
