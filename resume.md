@@ -7,11 +7,12 @@ ________________________________________
 ________________________________________	
 
 **LANGUAGES & PLATFORMS**
-*	Android, CSS, Java, JavaScript, HTML, PHP, and Python
-*	Bootstrap, D3.js, Jekyll, React.js, Node.js, SAS, Tableau, and WordPress
-*	R (and R studio), Hadoop, MongoDB, SQL (and SQLite Databases), and WEKA
-*	Adobe Creative Suite, Github, Google Apps & Analytics, and Microsoft Office
-
+<ul>
+<li>	Android, CSS, Java, JavaScript, HTML, PHP, and Python </li>
+<li>	Bootstrap, D3.js, Jekyll, React.js, Node.js, SAS, Tableau, and WordPress </li>
+<li>	R (and R studio), Hadoop, MongoDB, SQL (and SQLite Databases), and WEKA </li>
+<li>	Adobe Creative Suite, Github, Google Apps & Analytics, and Microsoft Office </li>
+</ul>
 ________________________________________	
 <h2>EDUCATION</h2>
 ________________________________________	
