@@ -11,7 +11,12 @@ Hello, my name is Vincent and I consider myself to be both a designer and a deve
 
 ### My Personal Life
 
-- If I am not working, I love to volunteer or mentor children over the Summer. I know it sounds cliche, but something about giving back to the community makes me all FLUTTERY inside. Plus the facilities have great central air conditioning. 
-- I'm not saying that I am a chef or anything, but I find food SEXY and INNOVATIVE. If you ever come over try my sweet "Panna Cotta."
-- Busy, busy, busy. I'm pretty sure you want to know all about my personal life, but there's not much to say I am dedicated to my work. I have one-day to recuperate, but instead it is spent on family and friends. The only excuse I have left is to incorperate my visual designs with work.
+- If I am not working, I tend to volunteer or mentor children over the Summer. I know it sounds cliche, but something about giving back to the community makes me all fluttery inside. Plus the facilities have great central air conditioning. 
+
+- I'm not saying that I am a chef or anything, but I find food incredibily sexy and innovative. If you ever come over try my sweet "Panna Cotta."
+
+- Before my little accident. I was a experienced martial artist in Tae-kwon-do (kickboxing). I no longer participate in the sport, but I still incorporate its techniques in my workout regiments.
+
+- I don't have any time to play video games anymore, but I still follow the latest trends in hardware and design.
+
 
