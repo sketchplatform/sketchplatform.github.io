@@ -6,7 +6,7 @@ subtitle: Data Scientist, Developer, and Designer
 
 ### My Professional Life
 
-Hello, my name is Vincent and I am a student who consider myself to be both a designer and a developer. My work as well as my interest falls into learning about new technology, data science, and programming. While my hobbies include cooking, performing data analysis, and creating art. My website <a href = "http://www.vincentylee.com/">vincentylee.com</a> is a portfolio that includes all my works and achievements that I made throughout the years. While <a href = "http://www.sketchplatform.com/">sketchplatform.com</a> is created with the intent for sharing creative and innovative ideas alongside the community.
+Hello, my name is Vincent and I am a student who consider myself to be both a designer and a developer. My work as well as my interest falls into learning about new technology, data science, and programming. While my hobbies include cooking, performing data analysis, and creating art. My website <a href = "http://www.vincentylee.com/">vincentylee.com</a> is a portfolio that includes all my works and achievements throughout the years. While <a href = "http://www.sketchplatform.com/">sketchplatform.com</a> is created with the intent for sharing creative and innovative ideas alongside the community.
 
 
 ### My Personal Life
