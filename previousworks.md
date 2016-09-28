@@ -4,6 +4,8 @@ title: Previous Works
 subtitle: Created By Vincent Lee
 ---
 
+Note: Stretch Goals Were Never Complete and Optimization Wasn't Perfect
+
 -----
 <center><h1> Paca Pace </h1></center>
 -----
