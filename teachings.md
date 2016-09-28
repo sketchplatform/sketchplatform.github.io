@@ -6,10 +6,11 @@ subtitle: Written By Vincent Lee
 
 Pictures Are Coming Soon!
 
+-----
 <center><h1>Beginner's Guide To Web Development</h1></center>
+-----
 
-
-## Why Learn Computer Science / Web Development?
+<center><h2>Why Learn Computer Science / Web Development?</h2></center>
 
 <center>
 Most people shy away from programming because they perceive it as difficult or complex.
@@ -98,12 +99,12 @@ List and text styles are not really important to web developers. However for gen
 - <del> = Strikethrough
 - <ins> = Underline
 
-## HREF & IMG
+## HREF and IMG
 The HREF attribute specifies the link's destination. Links are reference point to another website, url, document, or section of a webpage.
 
-I apologize, originally I wanted to demonstrate the webpage’s functionality through video and animate gifs. However to my disappointment pdfs & word documents prevent proper usage of inserted media files. Instead, I wrote descriptions for one to copy & paste into the <body> section of the HTML document.
+I apologize, originally I wanted to demonstrate the webpage’s functionality through video and animate gifs. However to my disappointment pdfs and word documents prevent proper usage of inserted media files. Instead, I wrote descriptions for one to copy and paste into the <body> section of the HTML document.
 
-```{r, eval = F}
+```
 <a href="https://www.google.com/"> Google </a>
 A link named “Google” that sends you directly to Google.
 <a href="mailto:email_name@gmail.com"> Email Me! </a>
@@ -111,7 +112,7 @@ A link named “email me!” that ask your email browser whether you want to com
 <a href="javascript:alert('Hello World!');"> Click Me! </a>
 A link named “click me!” that opens a javascript alert to write you a “helloworld” print statement.
 <img src="http://masterpiecemanager.com/wp-content/uploads/2012/07/art-management.png" alt="some_text">
-This creates an image source where you copy & paste the exact URL to call the image. Alt is used for naming purposes, it specifies an alternative text. Don’t worry about alt, we may talk more about this in CSS.
+This creates an image source where you copy and paste the exact URL to call the image. Alt is used for naming purposes, it specifies an alternative text. Don’t worry about alt, we may talk more about this in CSS.
 <img src="IF.png" alt="some_other_text" style="width:328px;height:328px;">
 You will NOT SEE THIS EXACT IMAGE. To create this image source you want to have your own image and drag it into the same folder as your “index.html” next set img src = as the exact name and file type of the image. Style is used to adjust the size of the image so it doesn’t become too large or small.
 <a href="https://developer.android.com/index.html"><img src="https://pbs.twimg.com/profile_images/616076655547682816/6gMRtQyY.jpg" alt="android_picture"></a>
@@ -124,7 +125,7 @@ My page looks somewhat like this:
 
 For proper documentation always place <!DOCTYPE HTML> at the top of your document to declare that HTML will be used in your page and rendered through the browser. Also insert the meta content tag underneath <head>. The meta tag is important since the browser uses it to decode the specifics of the HTML document such as descriptions, metadata, etc.
 
-After you inserted the proper html documentation; the browser can understand and identify the content. Now copy & paste this <link> tag and place it underneath <head>. This link will connect your HTML and CSS documents together. Once that’s done, create your new CSS file, name it “main.css”.<link rel ="stylesheet" type="text/css" href="main.css">
+After you inserted the proper html documentation; the browser can understand and identify the content. Now copy and paste this <link> tag and place it underneath <head>. This link will connect your HTML and CSS documents together. Once that’s done, create your new CSS file, name it “main.css”.<link rel ="stylesheet" type="text/css" href="main.css">
 
 By the way, I highly encourage that you download and install packages for your text editor. If you’re not using Atom go online or use google to setup “Colorpicker” since we will be using it in the following steps.
 
@@ -145,13 +146,16 @@ When implementing CSS styles to your HTML content we use selectors to pinpoint w
 selectors:
 
 - ID Selectors – <div id = “…” >: The top level order in CSS specify. It’s good and bad because you can only use each id once and it tends to override everything.
+
 - Class Selectors - <div class = “…” >: The most versatile selector that is also very useful because you can call the rule while using multiple classes into your HTML document.
+
 - Tag Selectors - <body, p, h1, etc >: Simple and clean for changing properties related to entire selected HTML Tag.
 To learn more about selectors go to: https://css-tricks.com/how-css-selectors-work/
 
-##Style & Color
+## Style and Color
 
 Fonts Type Syntax
+
 ```
 font-family: "Times New Roman", Georgia, Serif;
 ```
@@ -159,6 +163,7 @@ font-family: "Times New Roman", Georgia, Serif;
 There are many different font families try going online to copy these common font types: http://cssfontstack.com/oldsites/cssfontstack/
 
 ## Font Color Syntax
+
 ```
 color: blue;
 color: #9938b0
@@ -168,6 +173,7 @@ color: rgb(194, 34, 34)
 When picking colors you can type the name, use hexadecimal, or RGB numbers. Thankfully, color-picker makes it simple to choose the right color. (In atom, right click to find color-picker.)
 
 ## Font Size Syntax
+
 ```
 font-size: 12px;
 ```
@@ -187,6 +193,7 @@ background-color: black;
 It works exactly the same as font color just add it to background. Also use the <body> tag as the selector for the entire page.
 
 ## Gradients Syntax
+
 ```
 background:linear-gradient(45deg, #791010, #EA5D08);
 ```
@@ -194,13 +201,15 @@ background:linear-gradient(45deg, #791010, #EA5D08);
 If you don’t want to use a solid color background change it into a gradient background. Add the linear-gradient to your background and set the degree or transition angle of the two colors you want merge into your gradient.
 
 ## Background Image Syntax
+
 ```
 background-image: url(“…”);
 ```
 
-Setting the background image is simple. You can just write the name with the file type of your image as long as it’s in the same location as your CSS file. The other option is to copy & paste the URL directly from online. This is more intuitive than adding images through HTML.
+Setting the background image is simple. You can just write the name with the file type of your image as long as it’s in the same location as your CSS file. The other option is to copy and paste the URL directly from online. This is more intuitive than adding images through HTML.
 
 ## Background Size
+
 ```
 background-size: cover;
 or
