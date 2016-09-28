@@ -8,4 +8,4 @@ subtitle: Written By Vincent Lee
 
 <center><h1>Beginner's Guide To Web Development</h1></center>
 
-<iframe src="img/web.pdf" width="800" height="1200">
+<iframe src="/img/web.pdf" width="800" height="1200">
