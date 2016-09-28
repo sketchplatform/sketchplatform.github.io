@@ -133,7 +133,8 @@ Import Video
 Import Audio
 <embed src="pdf_name.pdf" width="1800px" height="1250px">
 Import PDF
-
+```
+```{r, eval = F}
 To import Videos open YouTube and search for the embed script. In this case, find your preferred video and click the share button. Then scroll to the “embed” link to copy & paste the <iframe> script into your document. Finally adjust the pixel width and height size to your liking. The embed script can also be found in other video sharing sites.
 
 To import audio use <audio controls> call <source src = … type =…> onto your specific audio file. Make sure that you have the correct audio type. Right click the file and hit “property” to figure out your file ending type. This source works similarly to <img src = …> remember that you must have the right location and file type, otherwise it won’t work.
