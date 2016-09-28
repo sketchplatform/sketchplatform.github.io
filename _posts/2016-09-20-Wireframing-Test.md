@@ -4,6 +4,7 @@ title: Simple Wireframing For Sketchplatform
 subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
+
 # SketchPlatform.com
 
 ## Questions?
@@ -36,7 +37,7 @@ bigimg: /img/path.jpg
 ## Store
 - Landing page) Link to the store 
 
-# Additional Designs
+## Additional Designs
  
 -	Login & SignUp
 -	Parallax 
