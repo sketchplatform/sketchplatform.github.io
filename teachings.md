@@ -46,7 +46,7 @@ I highly suggest that you create a folder for where you want to store your files
 
 HelloWorld is like a long running a joke among serious programmers. Essentially for all beginners who are new to programming this project generates a print statement that says “Hello World”. This is the first script of code that you would write in any new language. Now in your recently downloaded text editor copy and paste the following into your document. If you haven’t already created a folder as a destination for where you want to store everything do so now and then save your document as “index.html” to create your first HTML file. Afterwards open the file to see your print statement generated through the web browser.
 
-```{r, eval = F}
+```
 <html>
 <head>
 <title>Hello</title>
@@ -152,14 +152,14 @@ To learn more about selectors go to: https://css-tricks.com/how-css-selectors-wo
 ##Style & Color
 
 Fonts Type Syntax
-```{r, eval = F}
+```
 font-family: "Times New Roman", Georgia, Serif;
 ```
 
 There are many different font families try going online to copy these common font types: http://cssfontstack.com/oldsites/cssfontstack/
 
 ## Font Color Syntax
-```{r, eval = F}
+```
 color: blue;
 color: #9938b0
 color: rgb(194, 34, 34)
@@ -168,7 +168,7 @@ color: rgb(194, 34, 34)
 When picking colors you can type the name, use hexadecimal, or RGB numbers. Thankfully, color-picker makes it simple to choose the right color. (In atom, right click to find color-picker.)
 
 ## Font Size Syntax
-```{r, eval = F}
+```
 font-size: 12px;
 ```
 
@@ -178,7 +178,7 @@ HTML
 
 CSS
 
-```{r, eval = F}
+```
 Background
 Background Color Syntax
 background-color: black;
@@ -187,21 +187,21 @@ background-color: black;
 It works exactly the same as font color just add it to background. Also use the <body> tag as the selector for the entire page.
 
 ## Gradients Syntax
-```{r, eval = F}
+```
 background:linear-gradient(45deg, #791010, #EA5D08);
 ```
 
 If you don’t want to use a solid color background change it into a gradient background. Add the linear-gradient to your background and set the degree or transition angle of the two colors you want merge into your gradient.
 
 ## Background Image Syntax
-```{r, eval = F}
+```
 background-image: url(“…”);
 ```
 
 Setting the background image is simple. You can just write the name with the file type of your image as long as it’s in the same location as your CSS file. The other option is to copy & paste the URL directly from online. This is more intuitive than adding images through HTML.
 
 ## Background Size
-```{r, eval = F}
+```
 background-size: cover;
 or
 background-size: 100% 100%;
@@ -220,7 +220,8 @@ You can do a lot with CSS all it takes is hard work and ingenuity. Try finding i
 ## Images
 
 Import Image
-```{r, eval = F}
+
+```
 <img src="http://www.shopbelmontmarket.com/wp content/uploads/page_img_sushi_01.jpg" class="pic1">
 ```
 
@@ -233,19 +234,22 @@ Please notice when selecting images:
 
 Image Size
 
+```
 img {
 width: 50%;
 height: auto;
 }
-
+```
 Similar to font size, control your image size through height and width parameters. Remember your relative lengths, percentages, or pixels when adjusting the size. Sometimes resizing can be tricky, but Googling answers all your needs.
 
 Image Effect
 
+```
 img :hover{
 -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
 filter: grayscale(100%);
 }
+```
 
 This script is an example of desaturating an image when you hover over them, try it out. You can insert fascinating effects onto your images by applying these filters. Filter effects are impressive when you combine them with animation.
 
@@ -323,6 +327,7 @@ Get BootStrap) http://getbootstrap.com/
 - Unzip your download and move the file folder location to where you keep all your other documents.
 = Link the Bootstrap CSS file similar to how you link the “main.css” file. Bootstrap should provide you with this script on their site. Just copy and paste their link underneath head or alongside where you made a link for “main.css”:
 
+```
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -331,6 +336,7 @@ Get BootStrap) http://getbootstrap.com/
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+```
 
 - Look at some of the basic templates, window shop for something that you may like.
 - Also make sure the javascript is linked properly or there will functional issues.
@@ -347,7 +353,7 @@ At the meantime, we are going to copy the navbar from here:
 Now we are going to create a webpage using Bootstrap integration. It is completely optional, but I suggest that you create a new HTML and CSS file to prevent Bootstrap from conflicting with your previous work. Place the navbar within the new HTML file. It should be right underneath the starting tag of <body> then edit the contents of the navbar button.
 
 To add a brand or logo on the title bar:
-```{r, eval = F}
+```
 <title>Some Title Name </title>
 <link rel="icon" type="img/png" href="img.png">
 To add a brand or logo on the navbar:
@@ -399,7 +405,7 @@ To understand JavaScript you must first understand:
 
 ## Writing a Simple Function
 
-```{r, eval = F}
+```
 // HTML
 <html>
 <head>
@@ -445,7 +451,7 @@ Learn more here: http://www.tutorialspoint.com/nodejs/nodejs_first_application.h
 
 Note: What works for me may not work for you.
 
-```{r, eval = F}
+```
 Setup node.js
 First, open up a terminal and install Node Inspector, which is use to debug Node projects:
 $ npm install -g node-inspector
