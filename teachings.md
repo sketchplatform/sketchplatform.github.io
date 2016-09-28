@@ -9,8 +9,6 @@ Pictures Are Coming Soon!
 <center><h1>Beginner's Guide To Web Development</h1></center>
 
 
-# Getting Started
-
 ## Why Learn Computer Science / Web Development?
 
 <center>
@@ -121,28 +119,6 @@ This transforms your image into a clickable link!
 ```
 
 My page looks somewhat like this:
-
-## iFrame & Sources
-
-```{r, eval = F}
-The <iframe> tag essentially allows you to import media and the <src> tag allows you to import other file types into your HTML document. Another ineffective purpose of <iframe> is to create section borders, but you will learn more about implementing borders in CSS.
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/1fQkVqno-uI" frameborder="0" allowfullscreen></iframe>
-Import Video
-<audio controls><source src="music_name.mp3" type="audio/mp3"></audio>
-Import Audio
-<embed src="pdf_name.pdf" width="1800px" height="1250px">
-Import PDF
-```
-```{r, eval = F}
-To import Videos open YouTube and search for the embed script. In this case, find your preferred video and click the share button. Then scroll to the “embed” link to copy & paste the <iframe> script into your document. Finally adjust the pixel width and height size to your liking. The embed script can also be found in other video sharing sites.
-
-To import audio use <audio controls> call <source src = … type =…> onto your specific audio file. Make sure that you have the correct audio type. Right click the file and hit “property” to figure out your file ending type. This source works similarly to <img src = …> remember that you must have the right location and file type, otherwise it won’t work.
-
-To import typed documents write <embed src = …> like the information above make sure the file type is correct in this scenario it is “.pdf” also feel free to adjust the size.
-```
-
-Following the source code, the image below is an example of what I have done. Try showing off your own favorite video / audio alongside your content it will improve the longevity of your site and help retain viewers.
 
 # CSS Basics (1 ~ 9hrs)
 
