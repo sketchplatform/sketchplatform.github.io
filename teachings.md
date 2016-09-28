@@ -10,7 +10,7 @@ Pictures Are Coming Soon!
 <center><h1>Beginner's Guide To Web Development</h1></center>
 -----
 
-<center><h2>Why Learn Computer Science / Web Development?</h2></center>
+<center><h3>Why Learn Computer Science / Web Development?</h3></center>
 
 <center>
 Most people shy away from programming because they perceive it as difficult or complex.
