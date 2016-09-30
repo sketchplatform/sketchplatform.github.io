@@ -4,7 +4,7 @@ title: Previous Works
 subtitle: Created By Vincent Lee
 ---
 
-Note: Stretch Goals Were Never Complete and Optimization Wasn't Perfect
+<center>Note: Stretch Goals Were Never Complete and Optimization Wasn't Perfect</center>
 
 -----
 <center><h1> Paca Pace </h1></center>
@@ -22,37 +22,40 @@ Ideally, Paca Pace will help push all athletes to maintain a consistent cadence 
 ## Sensors
 
 The list of possible sensors that we may or may not be using for data collection:
+
 - Accelerometer
 - Vibrations
 - Camera (PPG)
 - ECG Band
 
-# Data Collection
+## Data Collection
 
 Similar to the step-detection activity, we will start collecting cycling movements by having our phones strapped to our leg with smartphone band used to record the accelerometer readings. Eventually we will collect multiple readings for accelerometer and vibrations expecting to see a pattern for RPM.
 As a stretch goal, we would use the Mcrowd Viz app to collect additional data for looking at speed, velocity, and power. The visualization would aid in creating higher precision and accuracy for our RPM detection. We can also use WEKA for creating an activity recognition by detecting stopping and speeding.
 
-$ Approach
+## Approach
 
 Once we collect our data, we create an algorithm that will provide the moving average RPM using the accelerometer.  We will be looking at our past step detection assignment as a model for developing the RPM detection algorithm.  
 Real time RPM data will be delivered to the UI every 5 seconds. We will also look into using phone’s vibrations to determine additional noise and movement.
 
-# Visualization
+## Visualization
 
 The idea is to create a visualization of the accelerometer so you can see the RPM movement:
-Line Graphs
-Bar Graphs
-Meters
-Status Bar
 
-# Stretch Goals
+- Line Graphs
+- Bar Graphs
+- Meters
+- Status Bar
+
+## Stretch Goals
 
 Our main focus is to collect accurate data for displaying the cadence or RPM. The stretch goals are ambitious activities or challenges that we may integrate after finishing our main objective. 
+
 - Use of Speed / Velocity Data
 - Activity Recognition
 - Saving features
 - Visualization
 - Android Wear Integration
 - Notification System
-= Availability to input different RPM and ranges
+- Availability to input different RPM and ranges
 - Integration with heart rate data
