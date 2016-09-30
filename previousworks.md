@@ -6,6 +6,8 @@ subtitle: Created By Vincent Lee
 
 <center>Note: Stretch Goals Were Never Complete and Optimization Wasn't Perfect</center>
 
+<img src="img/alpaca.png">
+
 -----
 <center><h1> Paca Pace </h1></center>
 -----
