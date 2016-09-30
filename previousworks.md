@@ -6,11 +6,11 @@ subtitle: Created By Vincent Lee
 
 <center>Note: Stretch Goals Were Never Complete and Optimization Wasn't Perfect</center>
 
-![Alpaca]({{http://vincentylee.com/previousworks/}}/img/alpaca.png)
-
 -----
 <center><h1> Paca Pace </h1></center>
 -----
+
+![Alpaca]({{http://vincentylee.com/previousworks/}}/img/alpaca.png)
 
 # Project Description
 
