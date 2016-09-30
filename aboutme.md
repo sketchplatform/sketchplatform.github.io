@@ -19,6 +19,6 @@ Hello, my name is Vincent and I am a student who consider myself to be both a de
 
 - I don't have any time to play video games anymore, but I still follow the latest trends in hardware and design.
 
-- Stock portfolios and Chess. These are skills that I have always wanted to master. Occasionally I play virtual simulation of these games. My goal in life is to move pass from "Beginner Level" participant, but it involves alot of critical thinking and being able to predict ahead.
+- Stock portfolios and Chess. These are skills that I have always wanted to master. Occasionally I play virtual online simulation of these games. My goal is to move pass from "Beginner" to "Proficient", but winning involves alot of critical thinking and being able to predict ahead of the curve.
 
 
