@@ -4,7 +4,7 @@ title: Personal Teachings
 subtitle: Written By Vincent Lee
 ---
 
-Pictures Are Coming Soon!
+[get the PDF]({{ site.url }}/img/web.pdf) 
 
 -----
 <center><h1>Beginner's Guide To Web Development</h1></center>
