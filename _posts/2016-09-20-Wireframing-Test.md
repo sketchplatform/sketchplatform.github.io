@@ -5,13 +5,14 @@ subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
 
-# SketchPlatform.com
+# Wireframe Layout For SketchPlatform.com
 
 ## Questions?
 
 - Who is the owner?	“ME” and some of the community
 - Who are the audience?	Employers, friends, and the community
-- What features do you want to add?	About | Community | Portfolio | Sketches | Podcast | Store | 
+- What features do you want to add?	
+About | Community | Portfolio | Sketches | Podcast | Store | 
 
 ## About
 -	Me ) Describing who I am
@@ -27,7 +28,8 @@ bigimg: /img/path.jpg
 
 
 ## Sketches
-- Art Gallery) Textures and Environments | Characters and Drawings | Logos and Product Design
+Art Gallery) Textures and Environments | Characters and Drawings | Logos and Product Design
+
 - Projects) An interactive version of my portfolio 
 - Recipes) Food and instructions as well as a video
  
