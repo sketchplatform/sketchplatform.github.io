@@ -5,15 +5,13 @@ subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
 
-## Big Data
-
 ### Big Data Coursera 
 
-https://www.coursera.org/specializations/big-data   
+[coursera.org/specializations/big-data](https://www.coursera.org/specializations/big-data)  
 
 ### [Free] Big Data University
 
-https://bigdatauniversity.com/courses/  
+(https://bigdatauniversity.com/courses/)  
 
 ### [Free] Big Data in Education, Big Data Analysis with Apache Spark
 
