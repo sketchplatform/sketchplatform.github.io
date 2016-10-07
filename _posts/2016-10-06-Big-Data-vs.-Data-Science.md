@@ -5,7 +5,7 @@ subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
 
-<center> ## Big Data </center>
+<center> <h1> Big Data </h1> </center>
 
 ### Big Data Coursera 
 
@@ -52,7 +52,7 @@ bigimg: /img/path.jpg
 - Hadoop or some software to do Big Data Analysis without Crashing your computer
 - Positions in Data Engineering, Management, or Mining
 
-<center> ## Data Science </center>
+<center> <h1> Data Science </h1> </center>
 
 ### Data School
 
