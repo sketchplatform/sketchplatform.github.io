@@ -61,13 +61,16 @@ bigimg: /img/path.jpg
 - [DataCamp](https://www.datacamp.com/) 
 
 ### CS 397F) Special Topic Data Science (easy and could be helpful)
-Learn about R, Basic Data Wrangling and Visualization, and Some Machine Learning
+
+- Learn about R, Basic Data Wrangling and Visualization, and Some Machine Learning
 
 ### PUBHLTH 490ST) Telling stories with data: statistics, modeling, and visualization
-Learn how to make in-depth analysis of Data
+
+- Learn how to make in-depth analysis of Data
 
 ### STATS 597A) Statistical Computing
-Learn more about Data Analytics w Stats
+
+- Learn more about Data Analytics w Stats
 
 ## What is the difference between data science and big data?
 
