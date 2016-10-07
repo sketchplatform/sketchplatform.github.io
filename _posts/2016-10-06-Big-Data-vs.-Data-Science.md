@@ -4,9 +4,9 @@ title: Big Data vs. Data Science
 subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
-***********
+------------
 ## Big Data
-***********
+------------
 
 ### Big Data Coursera 
 
@@ -53,9 +53,9 @@ bigimg: /img/path.jpg
 - Hadoop or some software to do Big Data Analysis without Crashing your computer
 - Positions in Data Engineering, Management, or Mining
 
-***************
+---------------
 ## Data Science
-***************
+---------------
 
 ### Data School
 
