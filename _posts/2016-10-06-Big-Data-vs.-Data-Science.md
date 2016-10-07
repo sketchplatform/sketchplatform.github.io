@@ -11,7 +11,7 @@ bigimg: /img/path.jpg
 
 ### [Free] Big Data University
 
-- [bigdatauniversity.com/courses/](https://bigdatauniversity.com/courses/)  
+- [bigdatauniversity.com/courses](https://bigdatauniversity.com/courses)  
 
 ### [Free] Big Data in Education, Big Data Analysis with Apache Spark
 
@@ -40,7 +40,7 @@ bigimg: /img/path.jpg
 
 ### Big Data & Hadoop Developer Training (probably not worth the money)
 
-- [simplilearn.com/big-data-and-analytics/](https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training) 
+- [simplilearn.com/big-data-and-analytics](https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training) 
 
 
 ## Possible things that you may want to learn:
