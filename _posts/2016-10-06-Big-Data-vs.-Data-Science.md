@@ -11,16 +11,16 @@ bigimg: /img/path.jpg
 
 ### [Free] Big Data University
 
-- [/bigdatauniversity.com/courses/](https://bigdatauniversity.com/courses/)  
+- [bigdatauniversity.com/courses/](https://bigdatauniversity.com/courses/)  
 
 ### [Free] Big Data in Education, Big Data Analysis with Apache Spark
 
 - [edx.org/course/big-data-education](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x) 
-- [www.edx.org/course/big-data-analysis](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x) 
+- [edx.org/course/big-data-analysis](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x) 
 
 ### [Free] Big Data Analysis with Revolution R Enterprise.(You might just want to sign up for Datacamp.com and learn about R and Python)
 
-- [Datacamp.com/big-data-revolution](https://www.datacamp.com/community/open-courses/big-data-revolution-r-enterprise-tutorial#gs.CcNTftQ) 
+- [datacamp.com/big-data-revolution](https://www.datacamp.com/community/open-courses/big-data-revolution-r-enterprise-tutorial#gs.CcNTftQ) 
 
 ### EMC Data Science and Big Data 
 
