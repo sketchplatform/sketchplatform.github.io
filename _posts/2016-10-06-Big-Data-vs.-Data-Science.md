@@ -7,35 +7,40 @@ bigimg: /img/path.jpg
 
 ### Big Data Coursera 
 
-[coursera.org/specializations/big-data](https://www.coursera.org/specializations/big-data)  
+- [coursera.org/specializations/big-data](https://www.coursera.org/specializations/big-data)  
 
 ### [Free] Big Data University
 
-(https://bigdatauniversity.com/courses/)  
+- [/bigdatauniversity.com/courses/](https://bigdatauniversity.com/courses/)  
 
 ### [Free] Big Data in Education, Big Data Analysis with Apache Spark
 
-https://www.edx.org/course/big-data-education-teacherscollegex-bde1x 
-https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x 
+- [edx.org/course/big-data-education](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x) 
+- [www.edx.org/course/big-data-analysis](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x) 
 
 ### [Free] Big Data Analysis with Revolution R Enterprise.(You might just want to sign up for Datacamp.com and learn about R and Python)
 
-https://www.datacamp.com/community/open-courses/big-data-revolution-r-enterprise-tutorial#gs.CcNTftQ 
+- [Datacamp.com/big-data-revolution](https://www.datacamp.com/community/open-courses/big-data-revolution-r-enterprise-tutorial#gs.CcNTftQ) 
 
 ### EMC Data Science and Big Data 
 
-https://education.emc.com/guest/campaign/data_science.aspx 
+- [EMC Data Science / Big Data Certification](https://education.emc.com/guest/campaign/data_science.aspx) 
 
 ### CS 345) Data Management
-Learn about SQL, Queries, Database, Data related about the Web Schema Design, and Data Visualization.
+
+- Learn about SQL, Queries, Database, Data related about the Web Schema Design, and Data Visualization.
+
 ### CS 397F) Special Topic Data Science (easy and could be helpful)
-Learn about R, Basic Data Wrangling and Visualization, and Some Machine Learning
+
+- Learn about R, Basic Data Wrangling and Visualization, and Some Machine Learning
+
 ### CS 445) Information Systems (helpful, but may be difficult)
-It will cover the relational model, conceptual design, and query languages. We will also cover core database implementation issues including storage and indexing, query processing and optimization, and transaction management. In presenting advanced data management technology, ut will cover web application development, big data analytics, and cloud computing.
+
+- It will cover the relational model, conceptual design, and query languages. We will also cover core database implementation issues including storage and indexing, query processing and optimization, and transaction management. In presenting advanced data management technology, ut will cover web application development, big data analytics, and cloud computing.
 
 ### Big Data & Hadoop Developer Training (probably not worth the money)
 
-https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training 
+- [simplilearn.com/big-data-and-analytics/](https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training) 
 
 
 ## Possible things that you may want to learn:
@@ -49,16 +54,18 @@ https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training
 
 ### Data School
 
-http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/ 
+- [DataSchool](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) 
 
 ### DataCamp
 
-https://www.datacamp.com/ 
+- [DataCamp](https://www.datacamp.com/) 
 
 ### CS 397F) Special Topic Data Science (easy and could be helpful)
 Learn about R, Basic Data Wrangling and Visualization, and Some Machine Learning
+
 ### PUBHLTH 490ST) Telling stories with data: statistics, modeling, and visualization
 Learn how to make in-depth analysis of Data
+
 ### STATS 597A) Statistical Computing
 Learn more about Data Analytics w Stats
 
