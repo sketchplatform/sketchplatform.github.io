@@ -4,7 +4,7 @@ title: Big Data vs. Data Science
 subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
-<center>
+
 ##Big Data
 
 ### Big Data Coursera 
@@ -53,4 +53,4 @@ Learn more about Data Analytics w Stats
 - Data Science looks to create models that capture the underlying patterns of complex systems, and codify those models into working applications. (smaller data analyzed with careful analysis, write applications to gain further insight.)
 
 - Big Data looks to collect and manage large amounts of varied data to serve large-scale web applications and vast sensor networks. (large database usually large system or data maintenance,  optimization, and analysis)
-</center>
+
