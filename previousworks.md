@@ -10,8 +10,6 @@ subtitle: Created By Vincent Lee
 <center><h1> Paca Pace </h1></center>
 -----
 
-![Alpaca]({{http://vincentylee.com/previousworks/}}/img/alpaca.png)
-
 # Project Description
 
 The objective of this application is to detect the cadence or RPM (revolutions per minute) of a cyclist and to appropriately notify when the user have reached or is deviating from their ideal cadence. The android program that we call “Paca Pace” will be integrated alongside our Mobile Health Sensing app. The slogan for ur objective is to “run like an alpaca, be the alpaca.”
@@ -61,3 +59,6 @@ Our main focus is to collect accurate data for displaying the cadence or RPM. Th
 - Notification System
 - Availability to input different RPM and ranges
 - Integration with heart rate data
+
+![Alpaca]({{http://vincentylee.com/previousworks/}}/img/alpaca.png)
+
