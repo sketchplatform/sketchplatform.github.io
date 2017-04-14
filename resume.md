@@ -64,11 +64,13 @@ ________________________________________
 <li>	Troubleshoot and resolve technical issues about printers & computers. </li>
 <li> Answer questions about the Library’s Facilities, or Collected Archives. </li>
 </ul>
+
 **FOOD SERVICE ASSISTANT AT FRANKLIN DINNING COMMONS**
 <ul>
 <li> Strategic planning in implementing dining hall regulations for quality and safety. </li>
 <li> Prioritize in cleaning and rearranging the dining hall furniture. </li>
 </ul>
+
 **STUDENT ART MENTOR AT BRAINTREE HIGH SCHOOL**
 <ul>
 <li> Paint murals while teaching children about Adobe Illustrator and Photoshop. </li>
