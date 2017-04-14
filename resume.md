@@ -9,9 +9,9 @@ ________________________________________
 **LANGUAGES & PLATFORMS**
 
 <ul>
-<li>	Android, CSS, Java, JavaScript, HTML, PHP, and Python </li>
-<li>	Bootstrap, D3.js, Jekyll, React.js, Node.js, SAS, Tableau, and WordPress </li>
-<li>	R (and R studio), Hadoop, MongoDB, SQL (and SQLite Databases), and WEKA </li>
+<li>	Android, C, CSS, Java, JavaScript, HTML, PHP, and Python </li>
+<li>	Bootstrap, D3.js, Jekyll, React.js, Node.js, Tableau, Webflow, and WordPress </li>
+<li>	R (and R studio), Hadoop, Rapid Miner, SPSS, SQL (SQlite, Oracle, Postgres), and WEKA </li>
 <li>	Adobe Creative Suite, Github, Google Apps & Analytics, and Microsoft Office </li>
 </ul>
 
@@ -21,11 +21,10 @@ ________________________________________
 
 **UNIVERSITY OF MASSACHUSETTS AMHERST (Expected May 2017):**
 
-Bachelor’s Degree with Individual Concentration in **Informatics (Data Science)**
+B.S. Informatics with a concentration in **Data Science**
 <ul>
 <li> Minor in Information Technology and Economics </li>
-<li>	Five College DataFest: Awarded Medal for Best Group (Panel A) </li>
-<li> Applicant in the Certified Associate in Project Management (CAPM) </li>
+<li> President of the Undergraduate Researchers Interested in Data </li>
 <li> Dean’s List: Spring 2015, Fall 2015 </li>
 </ul>
 
@@ -33,7 +32,7 @@ ________________________________________
 <h2>COURSES</h2>
 ________________________________________	
 
-Biostatistics, Problem Solving with Computers, Calculus, Data Management, Data Science, Economics, Info & Project Management, Internet Business, Programming with Mobile Health Sensing & Monitoring, A Networked World, Programing with Data Structures, Physics, Statistics, Web Programming, and Usability
+Bayesian Modeling, Business Intelligence & Analytics, Biostatistics, Problem Solving with Computers, Calculus, Data Management, Data Science, Economics, Info & Project Management, Internet Business, Programming with Mobile Health Sensing & Monitoring, A Networked World, Programing with Data Structures, Physics, Statistics, Web Programming, and Usability
 
 ________________________________________	
 <h2>PROJECT PROFILES</h2>
@@ -65,8 +64,22 @@ ________________________________________
 <li>	Troubleshoot and resolve technical issues about printers & computers. </li>
 <li> Answer questions about the Library’s Facilities, or Collected Archives. </li>
 </ul>
+**FOOD SERVICE ASSISTANT AT FRANKLIN DINNING COMMONS**
+<ul>
+<li> Strategic planning in implementing dining hall regulations for quality and safety. </li>
+<li> Prioritize in cleaning and rearranging the dining hall furniture. </li>
+</ul>
 **STUDENT ART MENTOR AT BRAINTREE HIGH SCHOOL**
 <ul>
 <li> Paint murals while teaching children about Adobe Illustrator and Photoshop. </li>
 </ul>
 
+________________________________________	
+<h2>HONORS AND AWARDS</h2>
+________________________________________	
+<ul>
+<li> Applicant in the Certified Associate in Project Management (CAPM) </li>
+<li> ASA Five College DataFest 2016: Awarded Medal for Best Group </li>
+<li> ASA Five College DataFest 2017: Awarded Medal for Best Group </li>
+<li> Google Analytics and AdWords Online Certification) </li>
+</ul>
