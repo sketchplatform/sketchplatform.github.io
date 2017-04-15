@@ -13,7 +13,7 @@ Hello, my name is Vincent and I am a student who consider myself to be both a da
 
 - If I am not working, I tend to volunteer or mentor students over the Summer. It sounds cliche, but something about giving back to the community makes me all fluttery inside. Plus the facilities have great central air conditioning. 
 
-- I'm not saying that I am a chef or anything, but I find food incredibily sexy and innovative. If you ever come over try my "Chicken Parmesan" or sweet "Panna Cotta" for dessert.
+- I'm not saying that I am a chef or anything, but I find food incredibily sexy and innovative. If you ever come over try my sweet "Panna Cotta" for dessert.
 
 - Before my little accident, I was an experienced martial artist in Tae-kwon-do (kickboxing). I no longer participate in the sport, but I still incorporate its techniques in my workout regiments.
 
