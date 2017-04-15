@@ -32,8 +32,21 @@ ________________________________________
 <h2>COURSES</h2>
 ________________________________________	
 
-Bayesian Modeling, Business Intelligence & Analytics, Biostatistics, Problem Solving with Computers, Calculus, Computer in Fine Arts, Compensation and Incentives, Data Management, Data Science, Economics, Info & Project Management, Internet Business, Programming with Mobile Health Sensing & Monitoring, MyDNA, A Networked World, Programing with Data Structures, Physics, Statistics, Web Programming, and Usability
+**DATA SCIENCE:**
 
+Bayesian Modeling, Biostatistics, Calculus, Data Science, Data Management, Telling Stories with Data, Statistics.
+
+**COMPUTER SCIENCE:**
+
+Problem Solving with Computers, Programing with Data Structures, Programming with Mobile Health Sensing & Monitoring, Human Computer Interaction, Web Programming.
+
+**BUSINESS:**
+
+Business Intelligence & Analytics, Info & Project Management, Internet Business, A Networked World.
+
+**OTHERS:**
+
+Computing in Fine Arts, Compensation on Incentivies and Productivity, Economics, MyDNA, Physics, 
 ________________________________________	
 <h2>PROJECT PROFILES</h2>
 ________________________________________	
@@ -79,12 +92,14 @@ ________________________________________
 **VOLUNTEER ASSISTANT AND GIFT SHOP CASHIER AT CARNEY HOSPITAL**
 <ul>
 <li> Duties are to transport and assist patients in need. </li>
-<li> Responsible for managing money between customer transactions and maintaining the store. </li>
+<li> Responsible for managing the store and customer transactions. </li>
 </ul>
 
 ________________________________________	
-<h2>HONORS AND AWARDS</h2>
+<h2>HONORS</h2>
 ________________________________________	
+
+**AWARDS & CERTIFICATIONS**
 <ul>
 <li> Applicant in the Certified Associate in Project Management (CAPM) </li>
 <li> ASA Five College DataFest 2016: Awarded Medal for Best Group </li>
