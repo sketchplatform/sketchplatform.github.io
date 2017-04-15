@@ -34,7 +34,7 @@ ________________________________________
 
 **DATA SCIENCE:**
 
-Bayesian Modeling | Biostatistics | Calculus | Data Science | Data Management | Telling Stories with Data | Statistics.
+| Bayesian Modeling,  Biostatistics, Calculus, Data Science, Data Management, Telling Stories with Data, Statistics |
 
 **COMPUTER SCIENCE:**
 
