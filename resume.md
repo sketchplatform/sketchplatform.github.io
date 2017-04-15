@@ -34,19 +34,19 @@ ________________________________________
 
 **DATA SCIENCE:**
 
-Bayesian Modeling / Biostatistics / Calculus / Data Science / Data Management / Telling Stories with Data / Statistics.
+Bayesian Modeling | Biostatistics | Calculus | Data Science | Data Management | Telling Stories with Data | Statistics.
 
 **COMPUTER SCIENCE:**
 
-Problem Solving with Computers / Programing with Data Structures / Programming with Mobile Health Sensing & Monitoring / HCI & Usability / Web Programming.
+Problem Solving with Computers | Programing with Data Structures | Programming with Mobile Health Sensing & Monitoring | HCI & Usability | Web Programming.
 
 **BUSINESS MANAGEMENT:**
 
-Business Intelligence & Analytics / Information & Project Management / Internet Business / A Networked World.
+Business Intelligence & Analytics | Information & Project Management | Internet Business | A Networked World.
 
 **OTHER COURSES:**
 
-Computing in Fine Arts / Compensation on Incentivies and Productivity / Economics / MyDNA / Physics / Price Theory.
+Computing in Fine Arts | Compensation on Incentivies and Productivity | Economics | MyDNA | Physics | Price Theory.
 
 ________________________________________	
 <h2>PROJECT PROFILES</h2>
