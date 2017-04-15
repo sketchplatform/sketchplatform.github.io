@@ -11,7 +11,7 @@ ________________________________________
 <ul>
 <li>	Android, C, CSS, Java, JavaScript, HTML, PHP, and Python </li>
 <li>	Bootstrap, D3.js, Jekyll, React.js, Node.js, Tableau, Webflow, and WordPress </li>
-<li>	R (and R studio), Hadoop, Rapid Miner, SPSS, SQL (SQlite, Oracle, Postgres), and WEKA </li>
+<li>	R (and R studio), Hadoop, Rapid Miner, SPSS, SQL (Oracle, Postgres), and WEKA </li>
 <li>	Adobe Creative Suite, Github, Google Apps & Analytics, and Microsoft Office </li>
 </ul>
 
@@ -32,7 +32,7 @@ ________________________________________
 <h2>COURSES</h2>
 ________________________________________	
 
-Bayesian Modeling, Business Intelligence & Analytics, Biostatistics, Problem Solving with Computers, Calculus, Data Management, Data Science, Economics, Info & Project Management, Internet Business, Programming with Mobile Health Sensing & Monitoring, A Networked World, Programing with Data Structures, Physics, Statistics, Web Programming, and Usability
+Bayesian Modeling, Business Intelligence & Analytics, Biostatistics, Problem Solving with Computers, Calculus, Computer in Fine Arts, Compensation and Incentives, Data Management, Data Science, Economics, Info & Project Management, Internet Business, Programming with Mobile Health Sensing & Monitoring, MyDNA, A Networked World, Programing with Data Structures, Physics, Statistics, Web Programming, and Usability
 
 ________________________________________	
 <h2>PROJECT PROFILES</h2>
@@ -76,6 +76,12 @@ ________________________________________
 <li> Paint murals while teaching children about Adobe Illustrator and Photoshop. </li>
 </ul>
 
+**VOLUNTEER ASSISTANT AND GIFT SHOP CASHIER AT CARNEY HOSPITAL**
+<ul>
+<li> Duties are to transport and assist patients in need. </li>
+<li> Responsible for managing money between customer transactions and maintaining the store. </li>
+</ul>
+
 ________________________________________	
 <h2>HONORS AND AWARDS</h2>
 ________________________________________	
@@ -83,5 +89,6 @@ ________________________________________
 <li> Applicant in the Certified Associate in Project Management (CAPM) </li>
 <li> ASA Five College DataFest 2016: Awarded Medal for Best Group </li>
 <li> ASA Five College DataFest 2017: Awarded Medal for Best Group </li>
-<li> Google Analytics and AdWords Online Certification) </li>
+<li> Google Analytics and AdWords Online Certification </li>
+<li> Google Mobile Site Online Certification </li>
 </ul>
