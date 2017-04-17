@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Wireframing For Sketchplatform
+title: Wireframing For Sketchplatform
 subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
@@ -25,7 +25,6 @@ bigimg: /img/path.jpg
 
 ## Portfolio
 - vincentylee.com) Link to my portfolio
-
 
 ## Sketches
 - Art Gallery) Textures and Environments | Characters and Drawings | Logos and Product Design
