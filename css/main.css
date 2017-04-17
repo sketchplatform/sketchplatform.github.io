@@ -81,6 +81,7 @@ img::-moz-selection {
 }
 
 img {
+  
   max-width: 100%;
 }
 
@@ -303,7 +304,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 26px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -314,7 +315,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 16px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -336,7 +337,7 @@ footer .theme-by {
 .blog-tags {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #999;
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 30px;
 }
 
@@ -411,7 +412,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 22px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
