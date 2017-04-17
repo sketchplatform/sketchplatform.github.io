@@ -4,9 +4,5 @@ title: Personal Teachings
 subtitle: Written By Vincent Lee
 ---
 
------
-<center><h1>Beginner's Guide To Web Development</h1></center>
------
-
 - [Beginner's Guide To Web Development]({{ site.url }}/img/web.pdf) 
 
