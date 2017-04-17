@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wireframing For Sketchplatform
-bigimg: /img/path.jpg
+bigimg: /img/wood.jpg
 ---
 
 # Wireframe Layout For SketchPlatform.com
