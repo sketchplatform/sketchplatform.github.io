@@ -81,7 +81,7 @@ img::-moz-selection {
 }
 
 img {
-  
+  height: 50%;
   max-width: 100%;
 }
 
