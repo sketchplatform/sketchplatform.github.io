@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Wireframing For Sketchplatform
-subtitle: By Vincent Lee
 bigimg: /img/path.jpg
 ---
 
