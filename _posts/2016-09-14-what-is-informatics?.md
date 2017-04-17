@@ -1,11 +1,11 @@
 ---
 layout: post
 title: What is Informatics?
-tags: [blog, jobs, informatics, data_science, school]
+tags: [jobs, informatics, data_science]
 ---
 
 The general term for Informatics is the science of information and computer systems. However for me Informatics stands for much more than the "science of information". Informatics is a field that connects people with the ability to communicate about Data, Technology and Intelligence. It is based on the foundation of computer science and join together with statistics and business. These concepts work in synergy to form what we call "Informatics." In my school there are two types of Informatics;
-one that focuses only on multimedia while the other focuses only on data. Informatics can be also divided into seperate categories such as BioInformatics, IT informatics, and Research informatics
+one that focuses only on multimedia while the other focuses only on data. Informatics can be also divided into seperate categories such as Health informatics, IT informatics, and Research informatics
 
 #### Common Roles For Data Science Informatics Are:
 
