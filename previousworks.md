@@ -5,6 +5,7 @@ subtitle: Created By Vincent Lee
 ---
 
 This is a collection of all my personal and academic projects that I've worked on, some of them are links to pages while others redirect you to another website.
+
 ---
 
 ## Websites
