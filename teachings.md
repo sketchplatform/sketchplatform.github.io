@@ -12,3 +12,5 @@ I make worksheets and tutorials in the hopes of teaching others who need help.
 
 - [Beginner's Guide To Web Development]({{ site.url }}/img/web.pdf) 
 
+---
+
