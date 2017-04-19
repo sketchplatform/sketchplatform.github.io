@@ -1,3 +1,9 @@
+---
+layout: page
+title: Datafest 2016 Reflection
+subtitle: By Vincent Lee
+---
+
 ![Datafest2016]({{ site.url }}/img/projects/datafest2016.jpg)
 
 After 2-days and approximately 36 hours of intense data wrangling, analysis, and presentation design. My team and I (Team Beta than U) won an Overall Best in Show Award at the 5 College DataFest! We were 1 out of 3 teams to receive this award out of the 30 teams that participated. Props to my awesome teammates for making this a very valuable learning experience!
@@ -37,7 +43,7 @@ At this point in time you should be finished with your data wrangling and have s
 - 1 pm: Submissions due
 - 2 pm: Presentations and judging begin
 - 4 pm: Winners Showcase & Awards (ISB 135)
-- 4:45 pm: DataFest concludes|
+- 4:45 pm: DataFest concludes
 
 Today is crunch time! You guys have only a couple hours before submission is due. Make sure your slides and writeup are ready, also make a script since the presentation or being able to land on your toes is key for winning Datafest. Once submitted, have your team practice the script. It's important that you guys how it down to 5 minutes! Overall, enjoy yourselves and be humble while presenting. Prepare to have judges break down your data analysis and techniques. Anyways, I hope you guys learn something from my team's experience at Datafest since we wasted way too much time at the beginning. 
 
