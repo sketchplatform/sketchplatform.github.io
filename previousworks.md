@@ -14,9 +14,15 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[stuckonfish.com](#)** - An e-commerce website made using wordpress. Currently, the website is not being used by the client. It was a great lesson for purchasing adwords and setting up an online store.
 
-- **[sketchplatform.com](https://www.sketchplatform.com)** - My personal website created with the intent for sharing innovation and design. It is a work and progress, but I hope to finish it my the end of Summer 2017.
+- **[sketchplatform.com](https://www.sketchplatform.com)** - My personal website created with the intent for sharing innovation and design. It is a work and progress, but I hope to finish it by the end of Summer 2017.
 
-- **[vincentylee.com](http://www.vincentylee.com/)** - The central hub that mainly showcases my portfolio.
+- **[vincentylee.com](http://www.vincentylee.com/)** - A central hub that is used to showcase my portfolio.
+
+## Data Analysis
+
+- **[Homicide Reports, 1980 - 2014](https://www.sketchplatform.com)** - A data exploration on the homicide dataset with prescriptive analytics on homicide prevention.
+
+- **[Human Resource Data Analysis](http://www.vincentylee.com/)** - An analysis on the human resource dataset using decision trees and random forests
 
 ## Visuals
 
@@ -39,7 +45,6 @@ This is a collection of all my personal and academic projects that I've worked o
 - **[Datafest 2017](#)** - Reflection on my team's analysis on the Expedias's dataset.
 
 - **[Google Analytics and Adwords](#)** - Reflection on my attempt to obtain google online individual certfication.
-
 
 ---
 
