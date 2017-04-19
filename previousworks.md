@@ -12,39 +12,39 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[ugrid.info](http://ugrid.info)** - A website that created for my undergraduate data science organization. It's a website used for sharing data science analysis, announcements, and tutorials. 
 
-- **[stuckonfish.com](#)** - An e-commerce website made using wordpress. Currently, the website is not being used by the client. It was a great lesson for purchasing adwords and setting up an online store.
+- **[stuckonfish.com](https://www.stuckonfish.com/wp)** - An ecommerce website made using wordpress. Currently, the website is not being used by the client. It was a great lesson for purchasing adwords, implementing google analytics, and building an online store.
 
 - **[sketchplatform.com](https://www.sketchplatform.com)** - My personal website created with the intent for sharing innovation and design. It is a work and progress, but I hope to finish it by the end of Summer 2017.
 
-- **[vincentylee.com](http://www.vincentylee.com/)** - A central hub that is used to showcase my portfolio.
+- **[vincentylee.com](http://www.vincentylee.com/)** - A central hub that is use to showcase my portfolio (currently you're using it!).
 
 ## Data Analysis
 
-- **[Homicide Reports, 1980 - 2014](https://www.sketchplatform.com)** - A data exploration on the homicide dataset with prescriptive analytics on homicide prevention.
+- **[Homicide Reports, 1980 - 2014](http://www.vincentylee.com/posts/homicide_reports)** - A data exploration on the homicide dataset with prescriptive analytics on homicide prevention.
 
-- **[Human Resource Data Analysis](http://www.vincentylee.com/)** - An analysis on the human resource dataset using decision trees and random forests
+- **[Human Resource Data Analysis](http://www.vincentylee.com/posts/human_resource_data_analysis)** - An analysis on the human resource dataset using decision trees and random forests
 
 ## Visuals
 
-- **[Tableau Portfolio](http://ugrid.info)** - A tableau portfolio used for data visualization. I spend 30 minutes every week to practice my skills in [makeovermonday](http://www.makeovermonday.co.uk). You can see how my visuals have gotten better overtime with only 30 minutes of practice.
+- **[Tableau Portfolio](https://public.tableau.com/profile/vincent6778)** - A tableau portfolio used for data visualization. I spend 30 minutes every week to practice my skills in [makeovermonday](http://www.makeovermonday.co.uk). You can see how my visuals have gotten better overtime with minimal time spent.
 
-- **[Artworks](#)** - I started using the Adobe Creative Suite when I was in Middle School. Often, friends of mine would come to me for help with design. Sometimes I get unpaid requests for making logos, designing webpages, and creating works of art.
+- **[Artworks](http://www.vincentylee.com/projects/artworks)** - I started using the Adobe Creative Suite when I was in Middle School. Often, friends of mine would come to me for help. Sometimes I get unpaid requests for making logos, designing webpages, and creating works of art.
 
 ## Programming Projects
 
-- **[Mobile Health Sensing App](#)** - an android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
+- **[Mobile Health Sensing App](http://www.vincentylee.com/projects/mobile_health_sensing_app)** - An android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
 
-- **[Paca Pace](#)** - an android app that involves the integration of RPM detection for cycling cadence. This is a personal project with my partner that took inspiration from the mobile health sensing app.
+- **[Paca Pace](http://www.vincentylee.com/projects/artworks/paca_pace)** - An android app that involves the integration of RPM detection for cycling cadence. This is a personal project that I made with a partner, we took inspiration from the mobile health sensing app.
 
-- **[Stack$](#)** - Web application for financial savings using bootstrap, node.js, and react.js. Honestly, the design and interactivity fell flat. 
+- **[Stack$](http://www.vincentylee.com/projects/stack$)** - Web application for financial savings using bootstrap, node.js, and react.js. Honestly, the design and interactivity fell flat. 
 
 ## Honors
 
-- **[Datafest 2016](#)** - Reflection on my team's analysis on the Ticketmaster's dataset.
+- **[Datafest 2016](http://www.vincentylee.com/projects/datafest2016)** - Reflection on my team's analysis on the Ticketmaster's dataset.
 
-- **[Datafest 2017](#)** - Reflection on my team's analysis on the Expedias's dataset.
+- **[Datafest 2017](http://www.vincentylee.com/projects/datafest2017)** - Reflection on my team's analysis on the Expedias's dataset.
 
-- **[Google Analytics and Adwords](#)** - Reflection on my attempt to obtain google online individual certfication.
+- **[Google Analytics and Adwords](http://www.vincentylee.com/projects/google_certification)** - Reflection on obtaining a google online individual certfication.
 
 ---
 
