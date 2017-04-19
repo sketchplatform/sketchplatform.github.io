@@ -34,9 +34,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[Mobile Health Sensing App](http://www.vincentylee.com/projects/mobile_health_sensing_app)** - An android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
 
-- **[Paca Pace](http://www.vincentylee.com/projects/artworks/paca_pace)** - An android app that involves the integration of RPM detection for cycling cadence. This is a personal project that I made with a partner, we took inspiration from the mobile health sensing app.
-
-- **[Stack$](http://www.vincentylee.com/projects/stack$)** - Web application for financial savings using bootstrap, node.js, and react.js. Honestly, the design and interactivity fell flat. 
+- **[Paca Pace](http://www.vincentylee.com/projects/paca_pace)** - An android app that involves the integration of RPM detection for cycling cadence. This is a personal project that I made with a partner, we took inspiration from the mobile health sensing app.
 
 ## Honors
 
