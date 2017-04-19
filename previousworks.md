@@ -30,7 +30,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[Paca Pace](#)** - an android app that involves the integration of RPM detection for cycling cadence. This is a personal project with my partner that took inspiration from the mobile health sensing app.
 
-- **[Stack](#) ** - Web application for financial savings using bootstrap, node.js, and react.js. Honestly, the design and interactivity fell flat. 
+- **[Stack$](#)** - Web application for financial savings using bootstrap, node.js, and react.js. Honestly, the design and interactivity fell flat. 
 
 ## Honors
 
