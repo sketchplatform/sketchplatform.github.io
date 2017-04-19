@@ -1,3 +1,5 @@
+![Datafest2016]({{ site.url }}/img/projects/datafest2016.jpg)
+
 After 2-days and approximately 36 hours of intense data wrangling, analysis, and presentation design. My team and I (Team Beta than U) won an Overall Best in Show Award at the 5 College DataFest! We were 1 out of 3 teams to receive this award out of the 30 teams that participated. Props to my awesome teammates for making this a very valuable learning experience!
 
 <h2>What I've Learn From This Entire Experience:</h2>
