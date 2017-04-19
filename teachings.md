@@ -8,9 +8,11 @@ I make worksheets and tutorials in the hopes of teaching others who need help.
 
 ---
 
-- **[vincentylee.com](http://www.vincentylee.com/)** - A central hub that is used to showcase my portfolio.
-
 - [Beginner's Guide To Web Development]({{ site.url }}/img/web.pdf) 
+
+- [UGRID Workshops](https://drive.google.com/drive/folders/0B7qRQkZ2lu7TalVOV0k1TmlYc1k?usp=sharing)
+
+- [UGRID Worksheets](https://drive.google.com/drive/folders/0B7qRQkZ2lu7TUWI2VDNvOG9Gclk?usp=sharing)
 
 ---
 
