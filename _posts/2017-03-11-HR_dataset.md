@@ -110,7 +110,7 @@ HRanalytics %>%
 plot(HRanalytics$salary)
 ```
 
-![](Exploring_Human_Resource_Analytics2_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![]({{ site.url }}/img/data_analysis/hr_dataset/unnamed-chunk-7-1.png)
 
 ``` r
 ## pairs [Slowest]
@@ -144,7 +144,7 @@ summary(fit)
 rpart.plot(fit, extra = 2, shadow.col ="gray")
 ```
 
-![](Exploring_Human_Resource_Analytics2_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![]({{ site.url }}/img/data_analysis/hr_dataset/unnamed-chunk-12-1.png)
 
 Now we need to test its accuracy
 
@@ -216,7 +216,7 @@ importance(fit2)
 plot(fit2)
 ```
 
-![](Exploring_Human_Resource_Analytics2_files/figure-markdown_github/unnamed-chunk-16-1.png)
+![]({{ site.url }}/img/data_analysis/hr_dataset/unnamed-chunk-16-1.png)
 
 ``` r
 fit3 = rpart(left~satisfaction_level+number_project+average_montly_hours+time_spend_company,data=train,method="class")
@@ -228,7 +228,7 @@ pred = predict(fit,test)
 rpart.plot(fit3, extra = 2, shadow.col ="gray")
 ```
 
-![](Exploring_Human_Resource_Analytics2_files/figure-markdown_github/unnamed-chunk-18-1.png)
+![]({{ site.url }}/img/data_analysis/hr_dataset/unnamed-chunk-18-1.png)
 
 Overall, based on what we've learned from our tree models is that satisfaction\_level plays the highest factor in predicting whether a employee leaves or not. It is then followed by number of projects given, time spent at the company, and average\_monthly\_hours. We know that employees would start to leave under these conditions. 4 or more projects with low satisfaction and 3 projects with extremely low satisfaction. The other condition is people working on less projects, but have incurred alot of overtime.
 
@@ -241,10 +241,10 @@ ggplot(HRanalytics, aes(x = satisfaction_level)) +
 geom_density(aes(colour=salary, fill=salary, alpha=.5))
 ```
 
-![](Exploring_Human_Resource_Analytics2_files/figure-markdown_github/unnamed-chunk-19-1.png)
+![]({{ site.url }}/img/data_analysis/hr_dataset/unnamed-chunk-19-1.png)
 
 ``` r
 ggplot(HRanalytics, aes(satisfaction_level, average_montly_hours, left))+ geom_density2d(aes(color = factor(left)))
 ```
 
-![](Exploring_Human_Resource_Analytics2_files/figure-markdown_github/unnamed-chunk-20-1.png)
+![]({{ site.url }}/img/data_analysis/hr_dataset/unnamed-chunk-20-1.png)
