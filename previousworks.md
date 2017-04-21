@@ -22,7 +22,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[Homicide Reports, 1980 - 2014](http://www.vincentylee.com/posts/homicide_reports)** - A data exploration on the homicide dataset with prescriptive analytics on homicide prevention.
 
-- **[Human Resource Data Analysis](http://www.vincentylee.com/posts/human_resource_data_analysis)** - An analysis on the human resource dataset using decision trees and random forests
+- **[Human Resource Data Analysis](http://www.vincentylee.com/_posts/2017-03-11-HR_dataset.md)** - A basic tutorial analysis on the human resource dataset using decision trees and random forests
 
 ## Visuals
 
