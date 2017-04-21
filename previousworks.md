@@ -22,7 +22,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[Homicide Reports, 1980 - 2014](http://www.vincentylee.com/posts/homicide_reports)** - A data exploration on the homicide dataset with prescriptive analytics on homicide prevention.
 
-- **[Human Resource Data Analysis](http://www.vincentylee.com/_posts/2017-03-11-HR_dataset)** - A basic tutorial analysis on the human resource dataset using decision trees and random forests
+- **[Human Resource Data Analysis](http://www.vincentylee.com/_posts/2017-03-11-HR_dataset/)** - A basic tutorial analysis on the human resource dataset using decision trees and random forests
 
 ## Visuals
 
@@ -30,7 +30,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 ## Programming Projects
 
-- **[Mobile Health Sensing App](http://www.vincentylee.com/projects/mobile_health_sensing_app)** - An android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
+- **[Mobile Health Sensing App](http://www.vincentylee.com/projects/mobile_health)** - An android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
 
 - **[Paca Pace](http://www.vincentylee.com/projects/paca_pace)** - An android app that involves the integration of RPM detection for cycling cadence. This is a personal project that I made with a partner, we took inspiration from the mobile health sensing app.
 
