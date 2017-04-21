@@ -7,7 +7,7 @@
 
 ![1]({{ site.url }}/img/projects/paca_pace.jpg)
 
-![2]({{ site.url }}/img/projects/Paca_Pace-2.jpg)
+![2]({{ site.url }}/img/projects/Paca Pace-2.jpg)
 
 ![3]({{ site.url }}/img/projects/paca_pace-3.jpg)
 
