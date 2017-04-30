@@ -1,12 +1,14 @@
 ---
-title: "CS 397F Chernoff Faces"
-author: "Vincent Lee"
-output: html_document
+layout: page
+title: Chernoff Faces
+subtitle: By Vincent Lee
 ---
+
+This is just a test of upload different file format onto my webpage. 
 
 ### Chernoff Faces
 
-Humans have built-in facial recognition in their brains. We are programmed to respond to facial features. Herman Chernoff, a statistician and physicist, came up with the idea of representing data with cortoon-like faces.
+Humans have built-in facial recognition in their brains. We are programmed to respond to facial features. Herman Chernoff, a statistician and physicist, came up with the idea of representing data with cartoon-like faces.
 
 ```{r}
 library(aplpack)
