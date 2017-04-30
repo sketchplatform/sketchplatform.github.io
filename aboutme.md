@@ -11,7 +11,7 @@ Hello, my name is Vincent and I am a student who consider myself to be a data sc
 
 ### My Personal Life
 
-- If I am not working, I tend to volunteer or mentor students over the Summer. It sounds cliche, but something about giving back to the community makes me all fluttery inside. Plus the facilities have great central air conditioning. 
+- If I am not working, I tend to volunteer or mentor students over the Summer.  
 
 - I'm not saying that I am a chef or anything, but I find food incredibily sexy and innovative. If you ever come over try my sweet "Panna Cotta" for dessert.
 
