@@ -16,7 +16,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[sketchplatform.com](https://www.sketchplatform.com)** - My personal website created with the intent for sharing innovation and design. It is a work and progress, but I hope to finish it by the end of Summer 2017.
 
-- **[vincentylee.com](http://www.vincentylee.com/)** - A central hub that is use to showcase my portfolio (currently on it!).
+- **[vincentylee.com](http://www.vincentylee.com/)** - A central hub that is use to showcase my portfolio (you're currently on it!).
 
 ## Data Analysis
 
