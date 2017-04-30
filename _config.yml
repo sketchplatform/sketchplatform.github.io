@@ -72,9 +72,9 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -86,7 +86,7 @@ url-pretty: "vincentylee.com"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-98357582-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
