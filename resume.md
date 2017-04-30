@@ -42,11 +42,11 @@ ________________________________________
 
 **BUSINESS MANAGEMENT:**
 
-| Business Intelligence & Analytics, Information & Project Management, Internet Business, A Networked World. |
+| Business Intelligence & Analytics, Operation Information Management, Project Management, Internet Business, A Networked World. |
 
 **OTHER COURSES:**
 
-| Computing in Fine Arts, Compensation on Incentivies and Productivity, Economics, MyDNA, Physics, Price Theory. |
+| Computing in Fine Arts, Compensation based on Incentivies and Productivity, Economics, MyDNA, Physics, Price Theory. |
 
 ________________________________________	
 <h2>PROJECT PROFILES</h2>
