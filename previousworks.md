@@ -24,6 +24,8 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[Human Resource Data Analysis](http://www.vincentylee.com/2017-03-11-HR_dataset/)** - A basic tutorial analysis on the human resource dataset using decision trees and random forests
 
+- **[Chernoff Faces](http://www.vincentylee.com/posts/Chernoff_Faces)** - Characterized facial recoginition visual. This is a test for uploading different filetypes on by website.
+
 ## Visuals
 
 - **[Tableau Portfolio](https://public.tableau.com/profile/vincent6778)** - A tableau portfolio used for data visualization. I spend 30 minutes every week to practice my skills in [makeovermonday](http://www.makeovermonday.co.uk). You can see how my visuals have gotten better overtime with minimal time spent.
