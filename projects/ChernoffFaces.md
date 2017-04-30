@@ -4,7 +4,7 @@ title: Chernoff Faces
 subtitle: By Vincent Lee
 ---
 
-This is just a test of upload different file format onto my webpage. 
+This is just a test of uploading different file format onto my webpage. 
 
 ### Chernoff Faces
 
@@ -148,9 +148,8 @@ faces(mat.to.plot4,face.type=0)
 
 ### Conclusion
 
-```{r, eval = FALSE}
 By looking at  some Chernoff faces you can identify how well did the players perform in their team's offense and defense last year. Apparently the teams with faces that look unique, excited, and grandiose perform better offensively and defensively. Compared to teams with faces that look small, sad, and insignificant perform worse in those categories.
-```
+
 
 
 
