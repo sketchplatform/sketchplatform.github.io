@@ -4,7 +4,7 @@ title: Chernoff Faces
 subtitle: By Vincent Lee
 ---
 
-This is just a test of uploading different file format onto my webpage. 
+This is just a test of uploading different file formats onto my webpage. 
 
 ### Chernoff Faces
 
