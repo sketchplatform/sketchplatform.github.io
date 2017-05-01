@@ -20,8 +20,6 @@ This is a collection of all my personal and academic projects that I've worked o
 
 ## Data Analysis
 
-- **[Homicide Reports, 1980 - 2014](http://www.vincentylee.com/posts/homicide_reports)** - A data exploration on the homicide dataset with prescriptive analytics on homicide prevention.
-
 - **[Human Resource Data Analysis](http://www.vincentylee.com/2017-03-11-HR_dataset/)** - A basic tutorial analysis on the human resource dataset using decision trees and random forests
 
 - **[Chernoff Faces](http://www.vincentylee.com/projects/ChernoffFaces)** - Characterized facial recoginition visual. This is a test for uploading different filetypes on by website.
