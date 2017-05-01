@@ -30,6 +30,8 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[Tableau Portfolio](https://public.tableau.com/profile/vincent6778)** - A tableau portfolio used for data visualization. I spend 30 minutes every week to practice my skills in [makeovermonday](http://www.makeovermonday.co.uk). You can see how my visuals have gotten better overtime with minimal time spent.
 
+- **[Art Gallery](https://drive.google.com/drive/folders/0B7qRQkZ2lu7Tc2RsMnRMTVZZQ00?usp=sharing)** - My personal art gallery, most of these artworks are logos or designs requested by friends, business acquaintance, or myself
+
 ## Programming Projects
 
 - **[Mobile Health Sensing App](http://www.vincentylee.com/projects/mobile_health)** - An android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
