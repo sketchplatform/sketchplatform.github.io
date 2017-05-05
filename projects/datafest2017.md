@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Datafest 2017 Reflection
 subtitle: By Vincent Lee
 ---
