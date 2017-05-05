@@ -3,10 +3,9 @@ layout: post
 title: Datafest 2017 Reflection
 subtitle: By Vincent Lee
 ---
+![Datafest2017]({{ site.url }}/img/projects/datafest2017.jpg)
 
-If you haven't check out Datafest 2016 Reflection go here now: <http://ugrid.info/2016/04/01/Datafest_2016_Reflection.html>
-
-I would like to take a moment to thank my awesome team members (Off-The-Grid) and the wonderful judges to winning a medal in the Overall Best in Show Award AGAIN at the 5 College DataFest! We were 1 out of 3 teams to receive this award out of the 30+ teams that participated. It was a blessing... to work with large data again within a short time limit.
+Sadly, we didn't digest my recommendation from last time. Although, I would like to take a moment to thank my awesome team members (Off-The-Grid) and the wonderful judges to winning a medal in the Overall Best in Show Award AGAIN at the 5 College DataFest! We were 1 out of 3 teams to receive this award out of the 30+ teams that participated. It was a blessing... to work with large data again within a short time limit.
 
 <h2>What I've Learn From This Entire Experience:</h2>
 
