@@ -10,8 +10,8 @@ ________________________________________
 
 <ul>
 <li>	Android, C, CSS, Java, JavaScript, HTML, PHP, and Python </li>
-<li>	Bootstrap, D3.js, Jekyll, React.js, Node.js, Tableau, Webflow, and WordPress </li>
-<li>	R (and R studio), Hadoop, Rapid Miner, SPSS, SQL (Oracle, Postgres), and WEKA </li>
+<li>	Bootstrap, D3.js, Jekyll, React.js, Node.js, PowerBI, Tableau, Webflow, and WordPress </li>
+<li>	AWS, R (and R studio), Hadoop, Rapid Miner, SPSS, SQL (Oracle, Postgres), and WEKA </li>
 <li>	Adobe Creative Suite, Github, Google Apps & Analytics, and Microsoft Office </li>
 </ul>
 
@@ -72,10 +72,17 @@ ________________________________________
 <h2>EXPERIENCES</h2>
 ________________________________________	
 
+**BUSINESS INTELLIGENCE AT GRANITE TELECOMMUNICATION LLC**
+<ul>
+<li>	DevOps: Building data pipelines from traditional legacy reporting services for continuous integration and automation to Cloud and RDBMS to view trends of historical data. </li>
+<li>	Analytics: Building data visualizations and KPI reporting metrics to monitor outliers while providing ease of understanding. Worked on many reports through the use of data wrangling and machine learning techniques. </li>
+<li> Support: Building triggers or alerts for recommendation and issue tracking. There is a constant need for problem solving, best practices, feature analysis, as well as documentation. </li>
+</ul>
+
 **LEARNING COMMONS STUDENT ASSISTANT AT DUBOIS LIBRARY**
 <ul>
-<li>	Assist patrons with questions regarding computer hardware and software. </li>
-<li>	Troubleshoot and resolve technical issues about printers & computers. </li>
+<li> Assist patrons with questions regarding computer hardware and software. </li>
+<li> Troubleshoot and resolve technical issues about printers & computers. </li>
 <li> Answer questions about the Library’s Facilities, or Collected Archives. </li>
 </ul>
 
@@ -102,6 +109,7 @@ ________________________________________
 
 **AWARDS & CERTIFICATIONS**
 <ul>
+<li> AWS Certified Cloud Practitioner Online Certification </li>
 <li> Applicant in the Certified Associate in Project Management (CAPM) </li>
 <li> ASA Five College DataFest 2016: Awarded Medal for Best Group </li>
 <li> ASA Five College DataFest 2017: Awarded Medal for Best Group </li>
