@@ -12,7 +12,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[ugrid.info](http://ugrid.info)** - A website that created for my undergraduate data science organization. It's a website used for sharing data science analysis, announcements, and tutorials. 
 
-- **[stuckonfish.com](http://www.stuckonfish.com/wp/)** - An ecommerce website made using wordpress. Currently, the website is not being used by the client. It was a great lesson for purchasing adwords, implementing google analytics, and building an online store.
+- **[stuckonfish.com](http://www.stuckonfish.com)** - An ecommerce website made using wordpress. Currently, the website is not being used by the client. It was a great lesson for purchasing adwords, implementing google analytics, and building an online store.
 
 - **[sketchplatform.com](http://www.sketchplatform.com)** - My personal website created with the intent for sharing innovation and design. It is a work and progress, but I hope to finish it by the end of Summer 2017.
 
