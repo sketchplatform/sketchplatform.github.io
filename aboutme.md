@@ -13,9 +13,9 @@ Hello, my name is Vincent and I am a student who consider myself to be a data sc
 
 - I'm not saying that I am a chef or anything, but I find food incredibily sexy and innovative. If you ever come over try my sweet "Panna Cotta" for dessert.
 
-- I love videogames and fitness trackers. I'm obsessed with any IoT device that tracks or gamifies my performance. One day I would like to make my own Mobile or VR game that incentivizes movement.
+- I'm obsessed with any IoT device that tracks or gamifies my performance. One day I would like to make my own Mobile or VR game that incentivizes movement.
 
-- I find myself spending most weekends playing board games, painting, or exploring new restuarants with my friends. 
+- I find myself spending most weekends playing games, painting, or exploring new restuarants with my friends. 
 
 - Before my accident, I was an experienced martial artist in Tae-kwon-do (kickboxing). I no longer participate in the sport, but I still incorporate its techniques in my workout regiments.
 
