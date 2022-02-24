@@ -75,13 +75,17 @@ ________________________________________
 **BUSINESS INTELLIGENCE AT GRANITE TELECOMMUNICATION LLC**
 
 <h5>DevOps:</h5>
+
 | Building data pipelines from traditional legacy reporting services for continuous integration and automation to Cloud and on-premise RDBMS to view trends of historical data. |
 
 <h5>Analytics:</h5>
+
 | Building data visualizations and KPI reporting metrics to monitor outliers while providing ease of understanding. Worked on senior management reporting and improved NPS (net promoter score) performance through the use of machine learning techniques such as sentiment analysis and clustering. |
 
 <h5>Support:</h5>
+
 | Building triggers or alerts for recommendation and issue tracking. There is a constant need for problem solving, best practices, feature analysis, as well as documentation. Started logging work order management systems too help optimize SLAs, lead times, and reduce cancellations. |
+
 <p></p>
 
 **LEARNING COMMONS STUDENT ASSISTANT AT DUBOIS LIBRARY**
