@@ -74,6 +74,7 @@ ________________________________________
 
 **BUSINESS INTELLIGENCE AT GRANITE TELECOMMUNICATION LLC**
 <ul>
+<ul>
 <li>	DevOps: Building data pipelines from traditional legacy reporting services for continuous integration and automation to Cloud and on-premise RDBMS to view trends of historical data. </li>
 </ul>
 <ul>
