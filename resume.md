@@ -75,7 +75,9 @@ ________________________________________
 **BUSINESS INTELLIGENCE AT GRANITE TELECOMMUNICATION LLC**
 <ul>
 <li>	DevOps: Building data pipelines from traditional legacy reporting services for continuous integration and automation to Cloud and on-premise RDBMS to view trends of historical data. </li>
+
 <li>	Analytics: Building data visualizations and KPI reporting metrics to monitor outliers while providing ease of understanding. Worked on senior management reporting and improved NPS (net promoter score) performance through the use of machine learning techniques such as sentiment analysis and clustering. </li>
+  
 <li> Support: Building triggers or alerts for recommendation and issue tracking. There is a constant need for problem solving, best practices, feature analysis, as well as documentation. Started logging work order management systems too help optimize SLAs, lead times, and reduce cancellations. </li>
 </ul>
 
