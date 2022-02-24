@@ -11,13 +11,17 @@ Hello, my name is Vincent and I am a student who consider myself to be a data sc
 
 ### My Personal Life
 
-- If I am not working, I tend to volunteer or mentor students over the Summer.  
-
 - I'm not saying that I am a chef or anything, but I find food incredibily sexy and innovative. If you ever come over try my sweet "Panna Cotta" for dessert.
 
-- Before my little accident, I was an experienced martial artist in Tae-kwon-do (kickboxing). I no longer participate in the sport, but I still incorporate its techniques in my workout regiments.
+- I love videogames and fitness trackers. I'm obsessed with any IoT device that tracks or gamifies my performance. One day I would like to make my own Mobile or VR game that incentivizes movement.
 
-- I don't have any time to play video games anymore. However, I still follow the latest trends in hardware and design.
+- I find myself spending most weekends playing board games, painting, or exploring new restuarants with my friends. 
+
+- Before my accident, I was an experienced martial artist in Tae-kwon-do (kickboxing). I no longer participate in the sport, but I still incorporate its techniques in my workout regiments.
+
+- Currently, I'm trying to learn plate spinning.
+
+
 
 
 
