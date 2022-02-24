@@ -16,13 +16,13 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[sketchplatform.com](http://www.sketchplatform.com)** - My personal website created with the intent for sharing innovation and design. It is a work and progress, but I hope to finish it by the end of Summer 2017.
 
-- **[vincentylee.com](http://www.vincentylee.com/)** - A central hub that is use to showcase my portfolio (you're currently on it!).
+- **[vincentyl.com](http://www.vincentyl.com/)** - A central hub that is use to showcase my portfolio (you're currently on it!).
 
 ## Data Analysis
 
-- **[Human Resource Data Analysis](http://www.vincentylee.com/2017-03-11-HR_dataset/)** - A basic tutorial analysis on the human resource dataset using decision trees and random forests
+- **[Human Resource Data Analysis](http://www.vincentyl.com/2017-03-11-HR_dataset/)** - A basic tutorial analysis on the human resource dataset using decision trees and random forests
 
-- **[Chernoff Faces](http://www.vincentylee.com/projects/ChernoffFaces)** - Characterized facial recoginition visual. This is a test for uploading different filetypes on by website.
+- **[Chernoff Faces](http://www.vincentyl.com/projects/ChernoffFaces)** - Characterized facial recoginition visual. This is a test for uploading different filetypes on by website.
 
 ## Visuals
 
@@ -32,17 +32,17 @@ This is a collection of all my personal and academic projects that I've worked o
 
 ## Programming Projects
 
-- **[Mobile Health Sensing App](http://www.vincentylee.com/projects/mobile_health)** - An android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
+- **[Mobile Health Sensing App](http://www.vincentyl.com/projects/mobile_health)** - An android app that involves the integration of step detection, activity recognition, text-to-speech, and heart rate monitoring.
 
-- **[Paca Pace](http://www.vincentylee.com/projects/paca_pace)** - An android app that involves the integration of RPM detection for cycling cadence. This is a personal project that I made with a partner, we took inspiration from the mobile health sensing app.
+- **[Paca Pace](http://www.vincentyl.com/projects/paca_pace)** - An android app that involves the integration of RPM detection for cycling cadence. This is a personal project that I made with a partner, we took inspiration from the mobile health sensing app.
 
 ## Honors
 
-- **[Datafest 2016](http://www.vincentylee.com/projects/datafest2016)** - Reflection on my team's analysis on the Ticketmaster's dataset.
+- **[Datafest 2016](http://www.vincentyl.com/projects/datafest2016)** - Reflection on my team's analysis on the Ticketmaster's dataset.
 
-- **[Datafest 2017](http://www.vincentylee.com/projects/datafest2017)** - Reflection on my team's analysis on the Expedias's dataset.
+- **[Datafest 2017](http://www.vincentyl.com/projects/datafest2017)** - Reflection on my team's analysis on the Expedias's dataset.
 
-- **[Google Analytics and Adwords](http://www.vincentylee.com/projects/google_certification)** - Reflection on obtaining a google online individual certfication.
+- **[Google Analytics and Adwords](http://www.vincentyl.com/projects/google_certification)** - Reflection on obtaining a google online individual certfication.
 
 ---
 
