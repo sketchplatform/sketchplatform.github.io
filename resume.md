@@ -84,6 +84,7 @@ Building data visualizations and KPI reporting metrics to monitor outliers while
 
 <h4>Support:</h4> 
 Building triggers or alerts for recommendation and issue tracking. There is a constant need for problem solving, best practices, feature analysis, as well as documentation. Started logging work order management systems too help optimize SLAs, lead times, and reduce cancellations.
+<p></p>
 
 **LEARNING COMMONS STUDENT ASSISTANT AT DUBOIS LIBRARY**
 <ul>
