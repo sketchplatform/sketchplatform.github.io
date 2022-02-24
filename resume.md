@@ -19,7 +19,7 @@ ________________________________________
 <h2>EDUCATION</h2>
 ________________________________________	
 
-**UNIVERSITY OF MASSACHUSETTS AMHERST (Expected May 2017):**
+**UNIVERSITY OF MASSACHUSETTS AMHERST**
 
 B.S. Informatics with a concentration in **Data Science**
 <ul>
@@ -74,13 +74,13 @@ ________________________________________
 
 **BUSINESS INTELLIGENCE AT GRANITE TELECOMMUNICATION LLC**
 
-<h4>DevOps:</h4> 
+<h5>DevOps:</h5> 
 Building data pipelines from traditional legacy reporting services for continuous integration and automation to Cloud and on-premise RDBMS to view trends of historical data.
 
-<h4>Analytics:</h4> 
+<h5>Analytics:</h5> 
 Building data visualizations and KPI reporting metrics to monitor outliers while providing ease of understanding. Worked on senior management reporting and improved NPS (net promoter score) performance through the use of machine learning techniques such as sentiment analysis and clustering. 
 
-<h4>Support:</h4> 
+<h5>Support:</h5> 
 Building triggers or alerts for recommendation and issue tracking. There is a constant need for problem solving, best practices, feature analysis, as well as documentation. Started logging work order management systems too help optimize SLAs, lead times, and reduce cancellations.
 <p></p>
 
