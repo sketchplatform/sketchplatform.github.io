@@ -40,7 +40,7 @@ avatar: "/img/vincent_photo.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Vincent Lee
-  email: "vylee@umass.edu"
+  email: "vylee.data@gmail.com"
   facebook: yourname  # eg. daattali
   github: vylee    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "vincentylee.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "vincentyl.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
