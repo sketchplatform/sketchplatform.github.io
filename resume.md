@@ -75,11 +75,9 @@ ________________________________________
 **BUSINESS INTELLIGENCE AT GRANITE TELECOMMUNICATION LLC**
 
 <h4>DevOps:</h4> 
-
 Building data pipelines from traditional legacy reporting services for continuous integration and automation to Cloud and on-premise RDBMS to view trends of historical data.
 
 <h4>Analytics:</h4> 
-
 Building data visualizations and KPI reporting metrics to monitor outliers while providing ease of understanding. Worked on senior management reporting and improved NPS (net promoter score) performance through the use of machine learning techniques such as sentiment analysis and clustering. 
 
 <h4>Support:</h4> 
