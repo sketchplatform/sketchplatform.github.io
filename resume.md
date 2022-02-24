@@ -82,8 +82,6 @@ ________________________________________
 
 | Building data visualizations and KPI reporting metrics to monitor outliers while providing ease of understanding. Worked on senior management reporting and improved NPS (net promoter score) performance through the use of machine learning techniques such as sentiment analysis and clustering. |
 
-| Bayesian Modeling,  Biostatistics, Calculus, Data Science, Data Management, Telling Stories with Data, Statistics. |
-
 <h5>Support:</h5>
 
 | Building triggers or alerts for recommendation and issue tracking. There is a constant need for problem solving, best practices, feature analysis, as well as documentation. Started logging work order management systems too help optimize SLAs, lead times, and reduce cancellations. |
