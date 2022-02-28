@@ -11,7 +11,7 @@ ________________________________________
 <ul>
 <li>	Android, C, CSS, Java, JavaScript, HTML, PHP, and Python </li>
 <li>	Bootstrap, D3.js, Figma, Jekyll, React.js, Node.js, PowerBI, Tableau, and WordPress </li>
-<li>	AWS, R (and R studio), Rapidminer, Hadoop, Hive, Impala, Spark, SPSS, SQL (Oracle, Postgres), and WEKA </li>
+<li>	AWS, R (and R studio), Rapidminer, Hadoop, Hive, Impala, Kafka, Spark, SPSS, SQL (Oracle, Postgres), and WEKA </li>
 <li>	Adobe Creative Suite, AzureDevOps, Github, Google Apps & Analytics, and Microsoft Office </li>
 </ul>
 
