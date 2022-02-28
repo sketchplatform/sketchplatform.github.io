@@ -14,7 +14,7 @@ This is a collection of all my personal and academic projects that I've worked o
 
 - **[stuckonfish.com](http://www.stuckonfish.com)** - An ecommerce website made using wordpress. Currently, the website is not being used by the client. It was a great lesson for purchasing adwords, implementing google analytics, and building an online store.
 
-- **[sketchplatform.com](http://www.sketchplatform.com)** - My personal website created with the intent for sharing innovation and design. It was practice to create a completely full stack application with encrypted login & password, upload & download, and lastly a database for storage. Honestly, this was an art gallery that is no longer active.
+- **[sketchplatform.com](http://www.sketchplatform.com)** - My personal website that is no longer active. It was created with the intent for sharing innovation and design. This was practice to create a completely full stack application with encrypted login & password, upload & download, and parallax scrolling.
 
 - **[vincentyl.com](http://www.vincentyl.com/)** - A central hub that is use to showcase my portfolio (you're currently on it!).
 
