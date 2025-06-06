@@ -4,24 +4,34 @@ title: Top 5 Things I Learned From Business Intelligence
 tags: Business Intelligence, Data, Management
 ---
 
-Business Intelligence (BI) plays a vital role in supporting the company by organizing data and sharing key insights that may optimize pre-existing processes or bring about new business opportuninites. We work with many groups to create financial reporting, operational KPIs, and improve performance through strategic-base management. Often do we integrate ourselves with Data Warehousing, Data Engineers, and Data Scientists. If they are not around then we usually have to pickup the slack by developing our own certified data sources/models and automation tools. I've spent over 5 years working for Business Intelligence in both Finance and IT. Let me share with you the top 5 things that you should takeaway with my years of experience building reports and developing business strategies. 
+Business Intelligence (BI) plays a vital role in supporting organizations by organizing data and delivering key insights that can optimize existing processes or reveal new business opportunities. We collaborate with various teams to create financial reports, operational KPIs, and support performance improvements through strategic, data-driven management.
 
-<h2> 1. Have A Deep Understanding Of The Entire Business</h2>
+Often, we work alongside data engineers, data scientists, and data warehouse teams. When those resources aren't available, we step in to build certified data models and automation tools ourselves. After more than five years in BI across both Finance and IT, here are the top 5 takeaways from my experience building reports and developing business strategies.
 
-This is an obvious given. However, I'm being absolutely serious when I say one should understands the total ins and outs of the business. You should know every department and walkthrough how your business operates step-by-step. Know how you are collecting the information and where does it go. This is alot of work, especiallly if you work for a large organization, but I guarantee you by making the effort to understand the business you will discover unnecessary functions and unneeded redundancies. It will help fix your problems and inspire you with new business opportunities.
+## 1. Have a Deep Understanding of the Entire Business
 
-<h2> 2. Never Be Afraid To Reach Out and Ask Questions </h2>
+This may sound obvious, but it's essential: truly understand how the business works from end to end. Learn how every department operates, what data is collected, and where it flows. This is especially challenging in larger organizations, but it’s worth the effort. With a comprehensive view, you’ll often uncover inefficiencies, redundant processes, and missed opportunities. Knowing the full picture makes you far more effective in solving problems and contributing new ideas.
 
-When I was first starting out this was the hardest obstacle to overcome. You don't want to embarass yourself and you might be afraid asking stupid questions. There is easily a sense of inferiority and imposter syndrome. However, it's very important since every department and person might have a different definition, answer, and ruleset for the same item. There are often misplaced acroynms and information you're not getting the full pictureto complete your goals. This is also a good networking lesson for who to go to if you need more questions or need help. After all, it's impossible to know everything especially when it was never documented or written down. Knowing how to ask and what questions to ask is a key function for BI as often the reason why problems arise in the business is because someone or something is behaving unexpected then the intended results.
-  
-<h2> 3. Always Solve Problems at The Source </h2>
+## 2. Never Be Afraid to Reach Out and Ask Questions
 
-Many times we get requests from people with issues that don't have a solution to fixing its source. However, sometimes these can be trick questions where someone can be getting a task that doesn't actually solve the root cause. People may ask you to alleviate a situation or in some cases don't even know what they are asking for. In these circumstances, you must always try to ask them why and where do they think is a the source of these problems. Even if you were to answer their request or alleviate the situation for just a moment they may comeback with even more problems. FIxing the source will almost always save you time and effort in the long run.
-  
-<h2> 4. Keep It Simple and Easy to Understand </h2>
+When I was starting out, this was one of the hardest things to overcome. No one wants to feel embarrassed or ask a "dumb" question. But asking questions is critical, especially when every department may define the same term differently or follow different rules. Miscommunication and hidden acronyms are common, and without clarification, you're likely missing key details.
 
-You know how a picture is worth a thousand words. Often that is what we're trying to accomplish with data visualization. Although one thing I have learned in my many interactions and lessons with others is to keep the material simple as possible. The higher up the management, the more succint you would need to be to stakeholders of the project. You also want all procedure and operatations to be readable and efficient. The more information that you overload the more confusion it is to both parties.
-  
-<h2> 5. Enpower People with Data and Knowledge Management </h2>
+Good questioning is a valuable BI skill. It not only helps complete your tasks, but also builds your internal network so you know who to go to in the future. Most importantly, it helps uncover the real cause of business problems, which often stem from something behaving differently than expected.
 
-Lastly the biggest goal for my style of BI is to enpower people with data and offer self-service BI. Without sharing your data and keeping the knowledge up to date you will tend to get the facts all wrong. Having the data and knowledge be transparent allows other to easiy correct it for errors.                                                                                                                                         
+## 3. Always Solve Problems at the Source
+
+Many times, we get requests from people who are trying to fix a symptom without addressing the root cause. Sometimes these are trick questions in disguise. You may be asked to do something that doesn't actually solve the underlying problem. People often don’t realize exactly what they need or may be trying to work around something broken.
+
+In these situations, always ask why the problem is happening and where they believe it started. If you only treat the symptom, the issue will likely come back—often worse. Fixing the root cause will almost always save you time and effort in the long run.
+
+## 4. Keep It Simple and Easy to Understand
+
+A picture is worth a thousand words, and that’s what we aim for in data visualization. But simplicity is key. The higher you go up in the organization, the more concise your reporting needs to be. Overloading stakeholders with too much detail creates confusion and stalls decision-making.
+
+Make your reports, processes, and documentation readable and efficient. Clear, focused insights are far more valuable than overly complex solutions that no one can follow.
+
+## 5. Empower People with Data and Knowledge Management
+
+One of the most important goals in BI is to enable others. This means building tools that support self-service BI, making data accessible, and maintaining clear, updated documentation. Without knowledge sharing, misinformation spreads easily.
+
+When data is transparent and knowledge is actively maintained, people can catch mistakes, find opportunities, and make better decisions. Empowering others with the right information creates a stronger, more agile organization.
